@@ -1,4 +1,6 @@
 name: Deploy pages
+permissions: 
+  contents: write
 on: push
 jobs:
   deploy:
